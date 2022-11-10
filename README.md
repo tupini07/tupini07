@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tupini07&hide=stars&show_icons=true&theme=dracula&count_private=true&show_icons=true)
+
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tupini07&layout=compact&theme=dracula&hide=html,jupyter%20notebook,PLpgSQL,Perl,JavaScript,Lua,Tex)
+
+
+
 <!--
 **tupini07/tupini07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
