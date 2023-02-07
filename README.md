@@ -1,10 +1,10 @@
-### Hi there 👋
+olin li pona suli!
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tupini07&hide=stars&show_icons=true&theme=dracula&count_private=true&show_icons=true)
 -->
 
-![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tupini07&layout=compact&theme=dracula&hide=html,jupyter%20notebook,PLpgSQL,Perl,JavaScript,Lua,Tex)
+<!-- ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tupini07&layout=compact&theme=dracula&hide=html,jupyter%20notebook,PLpgSQL,Perl,JavaScript,Lua,Tex) -->
 
 
 
