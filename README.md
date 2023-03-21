@@ -1,4 +1,6 @@
-olin li pona suli!
+## Hi 👋
+
+Thanks for visiting
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tupini07&hide=stars&show_icons=true&theme=dracula&count_private=true&show_icons=true)
