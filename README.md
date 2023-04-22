@@ -2,6 +2,20 @@
 
 Thanks for visiting
 
+Here's some pretty code for your viewing pleasure ([source](https://www.youtube.com/watch?v=tPQaem-SgKw))
+
+```clojure
+(defn multiple-of [p] #(zero? (mod % p)))
+(defn sieve [[p & ps]]
+  (cons p (->> ps
+               (remove (multiple-of p))
+               (sieve)
+               (lazy-seq))))
+(take 10 (sieve (iterate inc 2)))
+;;=> (2 3 5 7 11 13 17 19 23 29)      
+```
+
+
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tupini07&hide=stars&show_icons=true&theme=dracula&count_private=true&show_icons=true)
 -->
