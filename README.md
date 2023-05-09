@@ -7,10 +7,9 @@ Here's some pretty code for your viewing pleasure ([source](https://www.youtube.
 ```clojure
 (defn multiple-of [p] #(zero? (mod % p)))
 (defn sieve [[p & ps]]
-  (cons p (->> ps
-               (remove (multiple-of p))
-               (sieve)
-               (lazy-seq))))
+  (cons p (lazy-seq (->> ps
+                         (remove (multiple-of p))
+                         (sieve))))
 (take 10 (sieve (iterate inc 2)))
 ;;=> (2 3 5 7 11 13 17 19 23 29)      
 ```
