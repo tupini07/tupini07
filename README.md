@@ -2,8 +2,6 @@
 
 Thanks for visiting
 
-Here's some pretty code for your viewing pleasure ([source](https://www.youtube.com/watch?v=tPQaem-SgKw))
-
 ```clojure
 (defn multiple-of [p] #(zero? (mod % p)))
 (defn sieve [[p & ps]]
