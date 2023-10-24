@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Thanks for visiting
+Thanks for visiting. Here's some nice code
 
 ```clojure
 (defn multiple-of [p] #(zero? (mod % p)))
